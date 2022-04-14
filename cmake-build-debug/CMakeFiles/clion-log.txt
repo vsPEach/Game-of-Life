@@ -1,4 +1,4 @@
-/home/peach/.software/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/peach/.software/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja "/home/peach/CLionProjects/Game of Life"
+/home/peach/.software/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/peach/ClionProjects/Game-of-Life
 -- The C compiler identification is GNU 11.2.1
 -- The CXX compiler identification is GNU 11.2.1
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/peach/CLionProjects/Game of Life/cmake-build-debug
+-- Build files have been written to: /home/peach/ClionProjects/Game-of-Life/cmake-build-debug

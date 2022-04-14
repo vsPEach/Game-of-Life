@@ -1,4 +1,4 @@
-# Install script for directory: /home/peach/CLionProjects/Game of Life
+# Install script for directory: /home/peach/ClionProjects/Game-of-Life
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/peach/CLionProjects/Game of Life/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/peach/ClionProjects/Game-of-Life/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

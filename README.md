@@ -12,3 +12,4 @@ It is Turing complete and can simulate a universal constructor or any other Turi
   ### Game end when 
   1. There will not be a single «living» cell left on the field
   2. At the next step none of the cells changes its state
+
